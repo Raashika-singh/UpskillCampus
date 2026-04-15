@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which language is used for Python programming?",
+    "options": ["Java", "C++", "Python", "HTML"],
+    "answer": "Python"
+  },
+  {
+    "question": "Who developed Python?",
+    "options": ["Guido van Rossum", "Elon Musk", "Bill Gates", "Mark Zuckerberg"],
+    "answer": "Guido van Rossum"
+  }
+]
